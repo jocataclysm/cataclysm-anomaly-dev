@@ -1,2 +1,1 @@
-# cataclysm-anomaly-dev
-The place where the game can be
+#### The place where anomaly can be downloaded
