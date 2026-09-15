@@ -11,4 +11,4 @@ The mod might be unstable. To give feedback and report issues join Discord
 
 There are also [GitHub Issues](https://github.com/jocataclysm/cataclysm-anomaly-dev/issues) for feedback and bug reports
 
-<img width="73" height="95" alt="Reaction" src="https://github.com/user-attachments/assets/4362566f-6f4b-4a03-93da-87c454d9d931" /> but don't count on them
+<img width="73" height="95" alt="Reaction" src="https://github.com/user-attachments/assets/4362566f-6f4b-4a03-93da-87c454d9d931" />
