@@ -1,4 +1,4 @@
-## Download Cataclysm: Anomaly
+## Download Cataclysm DDA + Anomaly mod
 
 The mod might be unstable. Report bugs and performance issues on Discord!
 
