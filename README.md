@@ -8,6 +8,6 @@ The mod might be unstable. To give feedback and report issues join Discord
 
 <br>
 
-There are also [GitHub Issues](https://github.com/jocataclysm/cataclysm-anomaly-dev/issues) I guess
+<br>
 
-<img width="73" height="95" alt="Reaction" src="https://github.com/user-attachments/assets/4362566f-6f4b-4a03-93da-87c454d9d931" />
+There are also [GitHub Issues](https://github.com/jocataclysm/cataclysm-anomaly-dev/issues) I guess <img width="73" height="95" alt="Reaction" src="https://github.com/user-attachments/assets/4362566f-6f4b-4a03-93da-87c454d9d931" /> if you prefer that
